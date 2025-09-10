@@ -3,6 +3,7 @@
 # and obtained from the dandiarchive.
 '@context': 
   https://raw.githubusercontent.com/dandi/schema/master/releases/0.6.10/context.json
+about: []
 access:
 - schemaKey: AccessRequirements
   status: dandi:OpenAccess
@@ -24,6 +25,7 @@ contributor:
 dateCreated: '2025-09-08T13:38:03.197107+00:00'
 description: 'Calcium fluorescence images acquired during visual and photo stimulations
   of head-fixed larval zebrafish. '
+ethicsApproval: []
 id: DANDI:001569/draft
 identifier: DANDI:001569
 license:
@@ -32,8 +34,10 @@ manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/001569/versions/draft/assets/
 name: 'Data associated with the manuscript "improv: A software platform for real-time
   and adaptive neuroscience experiments"'
+relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.10
 url: https://dandiarchive.org/dandiset/001569/draft
 version: draft
+wasGeneratedBy: []
