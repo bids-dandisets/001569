@@ -4,7 +4,9 @@
     "HEDVersion": "8.3.0",
     "Description": "Calcium fluorescence images acquired during visual and photo stimulations of head-fixed larval zebrafish. ",
     "DatasetType": "raw",
-    "Authors": [],
+    "Authors": [
+        "Draelos, Anne"
+    ],
     "License": "CC-BY-4.0",
     "GeneratedBy": [
         {
